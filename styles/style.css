@@ -15,8 +15,6 @@ html {
   font-size: 62.5%;
 }
 body {
-  min-height: 100vh;
-
   font-size: var(--font);
   font-family: "Outfit", sans-serif;
 
@@ -28,6 +26,7 @@ body {
   justify-content: center;
   align-items: center;
   max-width: 144rem;
+  min-height: 100vh;
   margin: 0 auto;
 }
 
