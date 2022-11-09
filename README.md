@@ -18,9 +18,7 @@ Qr-code component with simple hover effects.
 ![](./demo.gif)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Go live](https://aksinyaseredina.github.io/qr-code-component/)
 
 ### Built with
 
