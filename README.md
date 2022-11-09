@@ -4,8 +4,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Screenshot](#screenshot)
 - [Overview](#overview)
+- [Preview](#preview)
 - [Links](#links)
 - [Built with](#built-with)
 
@@ -13,11 +13,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Qr-code component with simple hover effects.
 
-### Demo
+### Preview
 
 ![](./demo.gif)
 
 ### Links
+
 - Live Site URL: [Go live](https://aksinyaseredina.github.io/qr-code-component/)
 
 ### Built with
