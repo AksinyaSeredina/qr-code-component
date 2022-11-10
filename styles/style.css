@@ -17,6 +17,10 @@ html {
 body {
   font-size: var(--font);
   font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  text-align: center;
+  line-height: 1.3;
+  letter-spacing: 0.1875px;
 
   background-color: var(--bc-primary);
 }
@@ -32,10 +36,10 @@ body {
 
 .card {
   width: 31rem;
-  padding: 1.5rem;
+  padding: 1.6rem 1.6rem 4rem;
 
-  box-shadow: 1px 1px 11px hsl(220, 11%, 79%);
-  border-radius: 19px;
+  box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.048);
+  border-radius: 20px;
   background-color: var(--bc-secondary);
 
   transition: all 0.4s;
@@ -47,26 +51,18 @@ body {
 
 .qr-code-img {
   width: 100%;
-  margin-bottom: 1.5rem;
-
-  border-radius: 11px;
+  margin-bottom: 2.4rem;
+  border-radius: 10px;
 }
 .card-title {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.6rem;
 
   color: var(--text-primary);
 
   font-weight: 700;
-  font-size: 2.1rem;
-  letter-spacing: 0.5;
-  text-align: center;
+  font-size: 2.2rem;
 }
 
 .card-description {
-  margin-bottom: 2rem;
-
   color: var(--text-secondary);
-
-  text-align: center;
-  font-weight: 400;
 }
